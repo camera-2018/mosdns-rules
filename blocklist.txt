@@ -111,3 +111,5 @@ cmake.org
 raw.gitmirror.com
 asmr.one
 ollama.com
+bsky.social
+bsky.app
